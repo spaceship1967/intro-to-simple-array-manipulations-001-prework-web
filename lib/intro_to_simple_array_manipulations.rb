@@ -1,3 +1,6 @@
+#Must use the @ symbol where you see it attached to the variable because it has library code behind it. Without it, this shit won't work.
+#Go thru and notice differences. What's different about this failing method? What's similar? Spotting patterns. one by one.
+
 def using_push(array, string)
     countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
     next_country = "Niger"
